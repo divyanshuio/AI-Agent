@@ -7,14 +7,13 @@ it will perform those actions using the functions I have made in the functions d
 
 ## How to run on your machine
 make a google ai studio accound and create a free API key
-download or clone the repo on your machine and create a <b>.env</b> file put this inside it<br>
+download or clone the repo on your machine and create a <b>.env</b> file put this inside it</br>
 
-GEMINI_API_KEY="Your API Key"<br>
+```GEMINI_API_KEY="Your API Key"```<br>
 
 Though it is very basic right now I do plan to improve it more.
-<br>
-<br>
-<hr>
+</hr>
+
 ![bootdev_certificate](https://github.com/user-attachments/assets/0818d7a4-6cfe-4d6e-a5e8-2f347c8f4d3c)
-<hr>
+</hr>
 
