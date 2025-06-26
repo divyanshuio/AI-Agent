@@ -12,3 +12,5 @@ download or clone the repo on your machine and create a <b>.env</b> file put thi
 GEMINI_API_KEY="Your API Key"<br>
 
 Though it is very basic right now I do plan to improve it more.
+![bootdev_certificate](https://github.com/user-attachments/assets/0818d7a4-6cfe-4d6e-a5e8-2f347c8f4d3c)
+
