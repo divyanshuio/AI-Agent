@@ -1,7 +1,19 @@
-# from subdirectory.filename import function_name
-from functions.run_python_file import run_python_file
+from functions.run_python import run_python_file
 
-print(run_python_file("calculator", "main.py"))
-print(run_python_file("calculator", "tests.py"))
-print(run_python_file("calculator", "../main.py"))
-print(run_python_file("calculator", "nonexistent.py"))
+
+def test():
+    result = run_python_file("calculator", "main.py")
+    print(result)
+
+    result = run_python_file("calculator", "tests.py")
+    print(result)
+
+    result = run_python_file("calculator", "../main.py")
+    print(result)
+
+    result = run_python_file("calculator", "nonexistent.py")
+    print(result)
+
+
+if __name__ == "__main__":
+    test()
